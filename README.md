@@ -1,4 +1,4 @@
-# Reserva Hote lRMI
+# Reserva Hotel RMI
 
 Sistema simples de reserva de quartos usando Java RMI (Remote Method Invocation).
 
