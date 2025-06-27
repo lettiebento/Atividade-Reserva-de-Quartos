@@ -27,14 +27,17 @@ Não é possível selecionar datas. As reservas são feitas para um período fix
 ## Estrutura de Arquivos
 
 'ClienteHotel.java'
+
 'ServidorHotel.java'
+
 'GerenciadorQuartos.java'
 
 ## Funcionalidades disponíveis no cliente
-arduino
-Copiar
-Editar
+
 1 - Listar quartos disponíveis
+
 2 - Reservar quarto
+
 3 - Ver hóspedes cadastrados
+
 0 - Sair do sistema
