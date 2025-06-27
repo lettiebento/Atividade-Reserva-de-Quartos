@@ -26,11 +26,11 @@ Não é possível selecionar datas. As reservas são feitas para um período fix
 
 ## Estrutura de Arquivos
 
-'ClienteHotel.java'
+`ClienteHotel.java`
 
-'ServidorHotel.java'
+`ServidorHotel.java`
 
-'GerenciadorQuartos.java'
+`GerenciadorQuartos.java`
 
 ## Funcionalidades disponíveis no cliente
 
